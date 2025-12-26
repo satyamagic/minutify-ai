@@ -2,6 +2,9 @@
 
 **AI-Powered Meeting and Document Analysis Platform**
 
+**Author**: Satya Nagara  
+**GitHub**: [@satyamagic](https://github.com/satyamagic)
+
 Minutify is a modern web application designed to transcribe meetings, analyze documents, and generate structured insights using AI. Built with enterprise-grade security and GDPR compliance in mind, it serves as a portfolio project demonstrating full-stack development capabilities for EU and German companies.
 
 ---
@@ -564,7 +567,7 @@ minutify-ai/
 
 MIT License
 
-Copyright (c) 2025 Minutify
+Copyright (c) 2025 Satya Nagara
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -588,6 +591,10 @@ SOFTWARE.
 
 ## Contact & Contributions
 
+**Author**: Satya Nagara  
+**GitHub**: https://github.com/satyamagic  
+**Repository**: https://github.com/satyamagic/minutify-ai
+
 This is a portfolio project demonstrating full-stack development capabilities for EU/German companies. It showcases:
 
 - Modern web application architecture
@@ -601,4 +608,4 @@ For questions or feedback, please open an issue on the repository.
 
 ---
 
-**Built with ❤️ for European tech companies**
+Satya Nagara
