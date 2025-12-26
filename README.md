@@ -64,16 +64,22 @@ Minutify is a modern web application designed to transcribe meetings, analyze do
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-01.png)
 
 ### Detail View
-![Detail View](./screenshots/detail-view.png)
+![Detail View 1](./screenshots/detail-view-01.png)
+![Detail View 2](./screenshots/detail-view-02.png)
 
 ### Transcript View
-![Transcript](./screenshots/transcript.png)
+![Transcript 1](./screenshots/transcript-01.png)
+![Transcript 2](./screenshots/transcript-02.png)
 
 ### AI Analysis Panel
-![AI Analysis](./screenshots/ai-analysis.png)
+![AI Analysis 1](./screenshots/ai-analysis-01.png)
+![AI Analysis 2](./screenshots/ai-analysis-02.png)
+![AI Analysis 3](./screenshots/ai-analysis-03.png)
+![AI Analysis 4](./screenshots/ai-analysis-04.png)
+![AI Analysis 5](./screenshots/ai-analysis-05.png)
 
 ---
 
